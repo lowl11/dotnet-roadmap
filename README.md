@@ -25,6 +25,8 @@
 # Синтаксис
 [Синтаксис](syntax/README.md)
 - [Ключевые слова](syntax/keywords.md)
+- [Операторы условий](syntax/conditions.md)
+- [Циклы](syntax/cycles.md)
 
 # Типы данных
 [Типы данных](data_types/README.md)
