@@ -2,6 +2,7 @@
 
 - [Git](#git)
 - [Синтаксис](#синтаксис)
+- [Типы данных](#типы-данных)
 - [Структуры данных](#структуры-данных)
 - [Коллекции](#коллекции)
 - [Garbage Collector](#garbage-collector)
@@ -25,8 +26,11 @@
 [Синтаксис](syntax/README.md)
 - [Ключевые слова](syntax/keywords.md)
 
+# Типы данных
+[Типы данных](data_types/README.md)
+
 # Структуры данных
-[Структуры данных](data_structure/README.md)
+[Структуры данных](data_structures/README.md)
 
 # Коллекции
 [Коллекции](collections/README.md)
