@@ -28,6 +28,8 @@
 
 # Типы данных
 [Типы данных](data_types/README.md)
+- [Примитивные типы](data_types/primitive.md)
+- [Ссылочные типы](data_types/reference.md)
 
 # Структуры данных
 [Структуры данных](data_structures/README.md)
