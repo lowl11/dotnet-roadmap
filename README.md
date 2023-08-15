@@ -38,8 +38,20 @@
 
 # Коллекции
 [Коллекции](collections/README.md)
+- [Интерфейсы](collections/interfaces.md)
+    - [IEnumerable](collections/ienumerable.md)
+    - [IQueryable](collections/iqueryable.md)
+    - [IEnumerator](collections/ienumerator.md)
+- Коллекции
+    - [List](collections/list.md)
+    - [ArrayList](collections/array_list.md)
+    - [Dictionary](collections/dictionary.md)
+    - [Queue](collections/queue.md)
+    - [SortedList](collections/sorted_list.md)
+    - [Stack](collections/stack.md)
+    - [HashTable](collections/hash_table.md)
+    - [BitArray](collections/bit_array.md)
 - [LINQ](collections/linq.md)
-- [IEnumerable/IQuerable](collections/basic.md)
 
 # Garbage Collector
 [Garbage Collector](gc/README.md)
