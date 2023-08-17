@@ -74,13 +74,19 @@
 
 # Паттерны проектирования
 [Паттерны проектирования](patterns/README.md)
-- Strategy pattern
-- Builder pattern
-- Fabric pattern
-- Factory pattern
-- Proxy pattern
-- Repository Pattern
+- [Порождающие / Creational](patterns/creational.md)
+- [Структурные / Structural](patterns/strucutral.md)
+- [Поведенческие / Behavioral](patterns/behavioral.md)
+
+Основные:
+- [Repository](patterns/repository.md)
 - [Dependency Injection](patterns/di.md)
+- [Strategy](patterns/strategy.md)
+- [Singleton](patterns/singleton.md)
+- [Builder](patterns/builder.md)
+- [Fabric](patterns/fabric.md)
+- [Factory](patterns/factory.md)
+- [Proxy](patterns/proxy.md)
 
 # .NET
 [.NET](dotnet/README.md)
@@ -98,6 +104,8 @@
 
 # Database
 [База данных](database/README.md)
+- Индексы
+- Транзакции
 - .NET Entity Framework
 - T-SQL
 - SQL - MS SQL, PostgreSQL
