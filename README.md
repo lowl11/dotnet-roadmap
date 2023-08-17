@@ -61,6 +61,9 @@
 
 # OOP
 [OOP](oop/README.md)
+- [Наследование](oop/inheritance.md)
+- [Полиморфизм](oop/polymorph.md)
+- [Инкапусляция](oop/encapsulation.md)
 
 # Принципы проектирования
 [Принципы проектирования](principles/README.md)
