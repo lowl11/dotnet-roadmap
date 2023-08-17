@@ -7,6 +7,7 @@
 - [Коллекции](#коллекции)
 - [Garbage Collector](#garbage-collector)
 - [Exceptions](#exceptions)
+- [Concurrency](#concurreny)
 - [OOP](#oop)
 - [Принципы проектирования](#принципы-проектирования)
 - [Паттерны проектирования](#паттерны-проектирования)
@@ -59,6 +60,9 @@
 # Exceptions
 [Исключения / Exceptions](exceptions/README.md)
 
+# Concurrency
+[Concurrency](concurrency/README.md)
+
 # OOP
 [OOP](oop/README.md)
 - [Наследование](oop/inheritance.md)
@@ -105,6 +109,7 @@
 [База данных](database/README.md)
 - [Индексы](database/index.md)
 - [Транзакции](database/transaction.md)
+- [ACID](database/acid.md)
 - [.NET Entity Framework](database/dotnetef.md)
 - [T-SQL](database/tsql.md)
 
