@@ -103,11 +103,10 @@
 
 # Database
 [База данных](database/README.md)
-- Индексы
-- Транзакции
-- .NET Entity Framework
-- T-SQL
-- SQL - MS SQL, PostgreSQL
+- [Индексы](database/index.md)
+- [Транзакции](database/transaction.md)
+- [.NET Entity Framework](database/dotnetef.md)
+- [T-SQL](database/tsql.md)
 
 # Message Broker (Queue)
 [Message Broker](message_broker/README.md)
