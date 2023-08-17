@@ -71,7 +71,6 @@
 - [SOLID](principles/solid.md)
 - [DRY](principles/dry.md)
 - [KISS](principles/kiss.md)
-- Dependency Injection
 
 # Паттерны проектирования
 [Паттерны проектирования](patterns/README.md)
@@ -81,6 +80,7 @@
 - Factory pattern
 - Proxy pattern
 - Repository Pattern
+- [Dependency Injection](patterns/di.md)
 
 # .NET
 [.NET](dotnet/README.md)

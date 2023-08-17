@@ -4,4 +4,3 @@
 - [SOLID](solid.md)
 - [DRY](dry.md)
 - [KISS](kiss.md)
-- Dependency Injection
