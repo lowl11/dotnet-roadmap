@@ -7,10 +7,9 @@
 
 Основные:
 - [Repository](repository.md)
-- [Dependency Injection](patterns/di.md)
-- [Strategy](strategy.md)
-- [Singleton](singleton.md)
-- [Builder](builder.md)
-- [Fabric](fabric.md)
-- [Factory](factory.md)
-- [Proxy](proxy.md)
+- [Dependency Injection](di.md)
+- [Strategy](behavioral/strategy.md)
+- [Singleton](creational/singleton.md)
+- [Builder](creational/builder.md)
+- [Factory Method](creational/factory.md)
+- [Proxy](structural/proxy.md)

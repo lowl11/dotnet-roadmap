@@ -81,12 +81,11 @@
 Основные:
 - [Repository](patterns/repository.md)
 - [Dependency Injection](patterns/di.md)
-- [Strategy](patterns/strategy.md)
-- [Singleton](patterns/singleton.md)
-- [Builder](patterns/builder.md)
-- [Fabric](patterns/fabric.md)
-- [Factory](patterns/factory.md)
-- [Proxy](patterns/proxy.md)
+- [Strategy](patterns/behavioral/strategy.md)
+- [Singleton](patterns/creational/singleton.md)
+- [Builder](patterns/creational/builder.md)
+- [Factory Method](patterns/creational/factory.md)
+- [Proxy](patterns/structural/proxy.md)
 
 # .NET
 [.NET](dotnet/README.md)
