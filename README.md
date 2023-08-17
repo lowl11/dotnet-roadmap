@@ -7,7 +7,7 @@
 - [Коллекции](#коллекции)
 - [Garbage Collector](#garbage-collector)
 - [Exceptions](#exceptions)
-- [Concurrency](#concurreny)
+- [Concurrency](#concurrency)
 - [OOP](#oop)
 - [Принципы проектирования](#принципы-проектирования)
 - [Паттерны проектирования](#паттерны-проектирования)
