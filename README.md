@@ -7,7 +7,7 @@
 - [Коллекции](#коллекции)
 - [Garbage Collector](#garbage-collector)
 - [Exceptions](#exceptions)
-- [Concurrency](#concurrency)
+- [Concurrency/Async](#concurrency--async)
 - [OOP](#oop)
 - [Принципы проектирования](#принципы-проектирования)
 - [Паттерны проектирования](#паттерны-проектирования)
@@ -60,8 +60,8 @@
 # Exceptions
 [Исключения / Exceptions](exceptions/README.md)
 
-# Concurrency
-[Concurrency](concurrency/README.md)
+# Concurrency / Async
+[Concurrency / Async](concurrency/README.md)
 
 # OOP
 [OOP](oop/README.md)
