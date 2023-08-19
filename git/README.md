@@ -6,7 +6,7 @@
 git init
 git add *
 git commit -m "initial commit"
-git push
+git push --set-upstream origin main
 ```
 
 - **git init** - объявляет что данная папка где вы находитесь становится репозиторием git
