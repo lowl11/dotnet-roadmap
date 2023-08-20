@@ -3,8 +3,8 @@
 - [Git](#git)
 - [Синтаксис](#синтаксис)
 - [Типы данных](#типы-данных)
-- [Структуры данных](#структуры-данных)
 - [Коллекции](#коллекции)
+- [Структуры данных](#структуры-данных)
 - [Garbage Collector](#garbage-collector)
 - [Exceptions](#exceptions)
 - [Concurrency/Async](#concurrency--async)
@@ -34,9 +34,6 @@
 - [Примитивные типы](data_types/primitive.md)
 - [Ссылочные типы](data_types/reference.md)
 
-# Структуры данных
-[Структуры данных](data_structures/README.md)
-
 # Коллекции
 [Коллекции](collections/README.md)
 - [Интерфейсы](collections/interfaces.md)
@@ -53,6 +50,9 @@
     - [HashTable](collections/hash_table.md)
     - [BitArray](collections/bit_array.md)
 - [LINQ](collections/linq.md)
+
+# Структуры данных
+[Структуры данных](data_structures/README.md)
 
 # Garbage Collector
 [Garbage Collector](gc/README.md)
