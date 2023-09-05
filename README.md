@@ -98,12 +98,11 @@
 
 # API
 [API](api/README.md)
-- .NET API
-- Healthchecks
-- REST API
-- Fluent API
-- Soap
-- Swagger
+- [.NET API](api/api.md)
+- [Healthchecks](api/healthcheck.md)
+- [REST](api/rest.md)
+- [Soap](api/soap.md)
+- [Swagger](api/swagger.md)
 
 # Database
 [База данных](database/README.md)
@@ -112,6 +111,7 @@
 - [ACID](database/acid.md)
 - [.NET Entity Framework](database/dotnetef.md)
 - [T-SQL](database/tsql.md)
+- [Fluent API](database/fluent.md)
 
 # Message Broker (Queue)
 [Message Broker](message_broker/README.md)
