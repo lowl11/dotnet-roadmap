@@ -121,8 +121,8 @@
 
 # Cache
 [Cache](cache/README.md)
-- Memory cache
-- Redis
+- [Memory cache](cache/memory.md)
+- [Redis](cache/redis.md)
 
 # ELK
 [ELK](elk/README.md)
